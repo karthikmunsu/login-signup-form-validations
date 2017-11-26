@@ -1,0 +1,11 @@
+{
+  "name": "login-signup-form-validations",
+  "version": "1.0.1",
+  "description": "Package for login & signup form validations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karthik <karthikmunsu@gmail.com>",
+  "license": "ISC"
+}
