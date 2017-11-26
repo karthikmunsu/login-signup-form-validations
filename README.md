@@ -5,14 +5,14 @@ A package for validating the login signup form validations and much more.
 **Getting Started**
 
 To install the package just type 
-[npm install login-signup-form-validations --save]()
+_npm install login-signup-form-validations --save_
 
 **How To Import**
 
-for [angular 2] just import the pacakge as below.
+for **_angular 2_** just import the pacakge as below.
 >import * as _ from login-signup-form-validations;
 
-for [node.js] or [js] applications import it as below.
+for **_node.js_** or **_js_** applications import it as below.
 >var validate = require('login-signup-from-validations');
 
 **How To Use**
@@ -21,11 +21,11 @@ after importing the package into the application just use the object name to cal
 
 available functions in the packages are as follows.
 
--[checkEmail(args)]
--[checkPassword(args)]
--[checkCharacter(args)]
+>**_checkEmail(args)_**
+>**_checkPassword(args)_**
+>**_checkCharacter(args)_**
 
-these function will [return either true/false] so that no need to write the form validations in the applications just import and use the functions.
+these function will _return either true/false_ so that no need to write the form validations in the applications just import and use the functions.
 
 **Versioning**
 
@@ -33,10 +33,10 @@ We use SemVer for versioning. For the versions available, see the tags on this r
 
 **Authors**
 
-[Karthik S] - karthikmunsu@gmail.com
+[Karthik S](https://karthikmunsu.github.io) - karthikmunsu@gmail.com
 
 **License**
 
-This project is licensed under the [MIT License] - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
 
