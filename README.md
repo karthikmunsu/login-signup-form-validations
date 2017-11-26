@@ -1,11 +1,11 @@
 **LOGIN-SIGNUP-FORM-VALIDATIONS**
 
-A package for validating the login signup form validations and much more.
+A **NPM** package for validating the login signup form validations and much more.
 
 **Getting Started**
 
-To install the package just type 
-_npm install login-signup-form-validations --save_
+To install the package just type <br />
+>**_npm install login-signup-form-validations --save_**
 
 **How To Import**
 
