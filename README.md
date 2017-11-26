@@ -21,9 +21,11 @@ after importing the package into the application just use the object name to cal
 
 available functions in the packages are as follows.
 
->**_checkEmail(args)_**
->**_checkPassword(args)_**
->**_checkCharacter(args)_**
+>**_checkEmail(args)_**<br />
+
+>**_checkPassword(args)_**<br />
+
+>**_checkCharacter(args)_**<br />
 
 these function will _return either true/false_ so that no need to write the form validations in the applications just import and use the functions.
 
