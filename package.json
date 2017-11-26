@@ -1,11 +1,25 @@
 {
   "name": "login-signup-form-validations",
-  "version": "1.0.1",
-  "description": "Package for login & signup form validations",
+  "version": "1.0.3",
+  "description": "npm package for login & signup form validations",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pack-lib": "npm pack ",
+    "publish-lib": "npm publish "
   },
   "author": "karthik <karthikmunsu@gmail.com>",
+"repository": {
+    "type": "git",
+    "url": "https://github.com/karthikmunsu/login-signup-form-validations"
+  },
+  "bugs": {
+    "url": "https://github.com/karthikmunsu/login-signup-form-validations/issues"
+  },
+  "homepage": "https://github.com/karthikmunsu/login-signup-form-validations",
+  "keywords": [
+    "javascript",
+    "typescript"
+  ],
   "license": "ISC"
 }
