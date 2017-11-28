@@ -29,6 +29,11 @@ available functions in the packages are as follows.
 
 these function will _return either true/false_ so that no need to write the form validations in the applications just import and use the functions.
 
+>**_getCountries()_**<br />
+
+above function will return a **JSON ARRAY** contains all the countries of the world.
+
+
 **Versioning**
 
 We use SemVer for versioning. For the versions available, see the tags on this repository.
