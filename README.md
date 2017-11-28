@@ -33,6 +33,19 @@ these function will _return either true/false_ so that no need to write the form
 
 above function will return a **JSON ARRAY** contains all the countries of the world.
 
+>**_getStates(args)_**<br /> 
+
+above function will take arguments as **_countryCode_** _for-example:_ **IN** for **INDIA** so you need to pass **getStates(IN)** as _args_.
+
+_Note:_ countryCodes are not case sensitive.
+
+>**_getStatesWithCities(args)_**<br />
+
+above function will take arguments as **_countryCode_** _for-example:_ **IN** for **INDIA** so you need to pass **getStatesWithCities(IN)** as _args_.
+
+_Note:_ countryCodes are not case sensitive.
+ 
+
 
 **Versioning**
 
